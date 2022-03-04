@@ -1,0 +1,90 @@
+Draft Position,Team,Player,Seasons,GP,G,A,PTS,PIMS,League
+#114,Arizona Coyotes,Ivan Prosvetov (G),1,53,-,-,-,-,OHL
+#175,Los Angeles Kings,Jacob Ingham (G),4,175,-,-,-,-,OHL
+#208,Vegas Golden Knights,Jordan Kooy (G),4,92,-,-,-,-,OHL
+#107,St. Louis Blues,Joel Hofer (G),3,113,-,-,-,-,WHL
+#136,New Jersey Devils,Akira Schmid (G),1,1,-,-,-,-,WHL
+#158,Arizona Coyotes,David Tendeck (G),5,145,-,-,-,-,WHL
+#62,Edmonton Oilers,Olivier Rodrigue (G),4,178,-,-,-,-,QMJHL
+#157,Ottawa Senators,Kevin Mandolese (G),4,149,-,-,-,-,QMJHL
+#162,Chicago Blackhawks,Alexis Gravel (G),4,176,-,-,-,-,QMJHL
+#176,San Jose Sharks,Zachary Émond (G),4,105,-,-,-,-,QMJHL
+#209,Toronto Maple Leafs,Zachary Bouthillier (G),4,142,-,-,-,-,
+#51,Los Angeles Kings,Akil Thomas (F),4,239,102,205,307,149,OHL
+#100,Dallas Stars,Adam Mascherin (F),4,259,122,174,296,74,OHL
+#21,San Jose Sharks,Ryan Merkley (D),4,246,54,214,268,225,OHL
+#30,Detroit Red Wings,Joe Veleno (F),4,230,90,176,266,106,QMJHL
+#140,Colorado Avalanche,Brandon Saigeon (F),5,304,105,146,251,211,OHL
+#128,Montréal Canadiens,Cole Fonstad (F),5,268,76,170,246,54,WHL
+#204,Columbus Blue Jackets,Trey Fix-Wolansky (F),3,206,93,152,245,202,WHL
+#97,Montréal Canadiens,Allan McShane (F),4,252,94,150,244,52,OHL
+#54,Anaheim Ducks,Benoit-Olivier Groulx (F),4,247,105,139,244,246,QMJHL
+#129,Pittsburgh Penguins,Justin Almeida (F),5,256,89,154,243,34,WHL
+#17,New Jersey Devils,Ty Smith (D),5,238,44,188,232,121,WHL
+#179,Minnesota Wild,Shawn Boudrias (F),5,283,102,122,224,177,QMJHL
+#137,Dallas Stars,Riley Damiani (F),4,244,86,135,221,126,OHL
+#59,Tampa Bay Lightning,Gabriel Fortier (F),4,220,103,116,219,116,QMJHL
+#13,Dallas Stars,Ty Dellandrea (F),4,231,94,122,216,158,OHL
+#53,Pittsburgh Penguins,Calen Addison (D),5,251,41,173,214,206,WHL
+#10,Edmonton Oilers,Evan Bouchard (D),4,223,54,147,201,142,OHL
+#113,Los Angeles Kings,Aidan Dudas (F),4,238,80,121,201,86,OHL
+#34,Florida Panthers,Serron Noel (F),4,239,87,114,201,203,OHL
+#86,Minnesota Wild,Alexander Khovanov (F),3,141,66,132,198,220,QMJHL
+#92,Minnesota Wild,Connor Dewar (F),4,270,99,98,197,168,WHL
+#76,Toronto Maple Leafs,Semyon Der-Arguchintsev (F),4,246,35,160,195,63,OHL
+#40,Edmonton Oilers,Ryan McLeod (F),4,261,61,133,194,111,OHL
+#155,Minnesota Wild,Damien Giroux (F),4,247,99,92,191,83,OHL
+#18,Columbus Blue Jackets,Liam Foudy (F),4,228,96,92,188,95,OHL
+#83,Toronto Maple Leafs,Riley Stotts (F),4,246,72,113,185,146,WHL
+#118,Toronto Maple Leafs,Mac Hollowell (D),5,259,42,141,183,126,OHL
+#120,Chicago Blackhawks,Philipp Kurashev (F),3,183,69,110,179,67,QMJHL
+#198,Calgary Flames,Dmitri Zavgorodny (F),3,167,81,95,176,28,QMJHL
+#169,St. Louis Blues,Mathias Laferrière (F),4,206,65,110,175,64,QMJHL
+#96,Carolina Hurricanes,Luke Henman (F),4,191,46,123,169,77,QMJHL
+#106,Dallas Stars,Curtis Douglas (F),4,245,83,85,168,215,OHL
+#27,Chicago Blackhawks,Nicolas Beaudin (D),4,211,24,143,167,125,QMJHL
+#217,Washington Capitals,Eric Florchuk (F),4,247,61,103,164,102,WHL
+#66,Montréal Canadiens,Cam Hillis (F),3,153,53,109,162,116,OHL
+#37,Vancouver Canucks,Jett Woo (D),5,241,33,127,160,228,WHL
+#36,Detroit Red Wings,Jared McIsaac (D),4,202,33,125,158,246,QMJHL
+#5,Arizona Coyotes,Barrett Hayton (F),3,165,56,97,153,110,OHL
+#200,St. Louis Blues,Tyler Tucker (D),4,242,35,116,151,326,OHL
+#127,Philadelphia Flyers,Wyatte Wylie (D),5,271,31,120,151,150,WHL
+#12,New York Islanders,Noah Dobson (D),3,186,39,108,147,152,QMJHL
+#134,New York Islanders,Blade Jenkins (F),3,180,59,83,142,54,OHL
+#172,New Jersey Devils,Mitchell Hoelscher (F),4,200,55,87,142,147,OHL
+#199,Dallas Stars,Jermaine Loewen (F),5,295,78,64,142,359,WHL
+#52,Toronto Maple Leafs,Sean Durzi (D),4,180,38,102,140,80,OHL
+#150,Winnipeg Jets,Declan Chisholm (D),4,212,20,118,138,87,OHL
+#93,Washington Capitals,Riley Sutter (F),4,204,60,77,137,156,WHL
+#122,Calgary Flames,Milos Roman (F),3,159,61,76,137,59,WHL
+#185,Vegas Golden Knights,Xavier Bouchard (D),4,244,20,116,136,220,QMJHL
+#133,Montréal Canadiens,Samuel Houde (F),4,200,53,79,132,121,QMJHL
+#67,Detroit Red Wings,Alec Regula (D),3,188,45,78,123,118,OHL
+#153,Winnipeg Jets,Giovanni Vallati (D),4,252,20,102,122,184,OHL
+#149,Toronto Maple Leafs,Filip Král (D),3,154,31,89,120,46,WHL
+#154,Vegas Golden Knights,Connor Corcoran (D),4,250,36,82,118,139,OHL
+#168,Dallas Stars,Dawson Barteaux (D),5,233,20,90,110,70,WHL
+#88,New York Rangers,Joey Keane (D),3,195,21,81,102,216,OHL
+#31,Washington Capitals,Alexander Alexeyev (D),3,135,21,80,101,87,WHL
+#151,Nashville Predators,Vladislav Yeryomenko (D),3,188,26,73,99,90,WHL
+#47,Washington Capitals,Kody Clark (F),3,170,42,54,96,171,OHL
+#110,New Jersey Devils,Xavier Bernard (D),4,248,23,72,95,237,QMJHL
+#189,Arizona Coyotes,Liam Kirk (F),2,108,47,47,94,51,OHL
+#94,Buffalo Sabres,Matej Pekar (F),2,83,41,53,94,98,OHL
+#178,Anaheim Ducks,Hunter Drew (D),3,167,24,68,92,369,QMJHL
+#65,Arizona Coyotes,Jan Jeník (F),2,54,35,51,86,79,OHL
+#55,Arizona Coyotes,Kevin Bahl (D),4,234,14,71,85,291,OHL
+#6,Detroit Red Wings,Filip Zadina (F),1,57,44,38,82,36,QMJHL
+#41,New York Islanders,Bode Wilde (D),2,71,21,58,79,50,OHL
+#2,Carolina Hurricanes,Andrei Svechnikov (F),1,44,40,32,72,67,OHL
+#206,Tampa Bay Lightning,Radim Salda (D),2,110,20,51,71,114,QMJHL
+#101,New York Rangers,Nico Gross (D),3,166,16,51,67,187,OHL
+#95,Ottawa Senators,Jonathan Gruden (F),1,59,30,36,66,23,OHL
+#161,Washington Capitals,Alex Kannok-Leipert (D),4,196,14,51,65,211,WHL
+#8,Chicago Blackhawks,Adam Boqvist (D),1,54,20,40,60,12,OHL
+#145,Arizona Coyotes,Dennis Busby (D),4,152,8,49,57,67,OHL
+#29,Toronto Maple Leafs,Rasmus Sandin (D),1,51,12,33,45,24,OHL
+#77,Boston Bruins,Jakub Lauko (F),1,44,21,20,41,43,QMJHL
+#115,Vegas Golden Knights,Paul Cotter (F),1,48,9,17,26,25,OHL
+#57,Boston Bruins,Axel Andersson (D),1,43,3,21,24,29,QMJHL

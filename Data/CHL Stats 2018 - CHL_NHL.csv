@@ -1,0 +1,81 @@
+League,Team,Name,Draft Position,Seasons,GP,G,A,PTS,PIMS
+OHL,Nashville Predators,Yegor Afanasyev (F),45,1,1,0,2,2,0
+OHL,Columbus Blue Jackets,Eric Hjorth (D),104,1,1,0,0,0,2
+OHL,New York Rangers,Hunter Skinner (D),112,1,2,2,1,3,4
+OHL,Vancouver Canucks,Arturs Silovs (G),156,1,1,-,-,-,-
+OHL,Arizona Coyotes,Axel Bergkvist (D),200,1,1,0,1,1,0
+OHL,Toronto Maple Leafs,Kalle Loponen (D),204,1,3,0,0,0,0
+OHL,Florida Panthers,Vladislav Kolyachonok (D),52,2,56,4,27,31,46
+OHL,Minnesota Wild,Matvei Guskov (F),149,2,61,12,20,32,28
+OHL,Dallas Stars,Thomas Harley (D),18,3,130,12,61,73,38
+OHL,Nashville Predators,Philip Tomasino (F),24,3,130,41,59,100,50
+OHL,Washington Capitals,Connor McMichael (F),25,3,129,46,45,91,33
+OHL,Carolina Hurricanes,Ryan Suzuki (F),28,3,129,39,80,119,24
+OHL,Los Angeles Kings,Arthur Kaliyev (F),33,3,137,84,71,155,44
+OHL,Carolina Hurricanes,Jamieson Rees (F),44,3,84,15,37,52,57
+OHL,Toronto Maple Leafs,Nicholas Robertson (F),53,3,118,45,48,93,38
+OHL,Minnesota Wild,Hunter Jones (G),59,3,73,-,-,-,-
+OHL,New Jersey Devils,Nikita Okhotyuk (D),61,3,109,7,21,28,114
+OHL,New Jersey Devils,Graeme Clarke (F),80,3,120,38,22,60,62
+OHL,Florida Panthers,Cole Schwindt (F),81,3,136,27,42,69,45
+OHL,New Jersey Devils,Michael Vukojevic (D),82,3,93,4,32,36,85
+OHL,Philadelphia Flyers,Mason Millman (D),103,3,74,3,22,25,40
+OHL,Vancouver Canucks,Ethan Keppen (F),122,3,133,40,38,78,114
+OHL,Vegas Golden Knights,Mason Primeau (F),141,3,131,21,26,47,89
+OHL,Dallas Stars,Nicholas Porco (F),142,3,126,25,25,50,45
+OHL,St. Louis Blues,Keean Washkurak (F),155,3,129,22,40,62,92
+OHL,Carolina Hurricanes,Blake Murray (F),183,3,126,52,46,98,58
+OHL,Anaheim Ducks,Mathew Hill (D),186,3,97,3,13,16,61
+OHL,Montréal Canadiens,Jacob LeGuerrier (D),126,4,167,6,29,35,115
+OHL,Columbus Blue Jackets,Tyler Angle (F),212,4,167,34,33,67,82
+OHL,Florida Panthers,Greg Meireles (F),168,5,196,68,106,174,91
+OHL,New York Islanders,Cole Coskey (F),209,5,242,74,83,157,92
+QMJHL,San Jose Sharks,Artemi Knyazev (D),48,2,55,13,21,34,32
+QMJHL,Tampa Bay Lightning,Maxim Cajkovic (F),89,2,62,22,25,47,42
+QMJHL,Los Angeles Kings,Jordan Spence (D),95,2,70,6,43,49,20
+QMJHL,Toronto Maple Leafs,Mikhail Abramov (F),115,2,64,16,38,54,24
+QMJHL,Philadelphia Flyers,Yegor Serdyuk (F),165,2,65,29,40,69,45
+QMJHL,Arizona Coyotes,Valentin Nussbaumer (F),207,2,60,17,22,39,16
+QMJHL,Pittsburgh Penguins,Samuel Poulin (F),21,3,122,45,76,121,88
+QMJHL,Calgary Flames,Jakob Pelletier (F),26,3,125,62,88,150,44
+QMJHL,St. Louis Blues,Nikita Alexandrov (F),62,3,130,40,52,92,58
+QMJHL,Pittsburgh Penguins,Nathan Légaré (F),74,3,130,55,61,116,95
+QMJHL,Colorado Avalanche,Alex Beaucage (F),78,3,126,55,65,120,85
+QMJHL,Ottawa Senators,Maxence Guénette (D),178,3,131,9,35,44,50
+QMJHL,St. Louis Blues,Jérémy Michel (F),217,3,131,22,43,65,28
+QMJHL,Edmonton Oilers,Raphaël Lavoie (F),38,4,164,69,78,147,100
+QMJHL,New York Islanders,Samuel Bolduc (D),57,4,130,11,40,51,35
+QMJHL,St. Louis Blues,Colten Ellis (G),93,4,102,-,-,-,-
+QMJHL,New York Islanders,Félix Bibeau (F),178,5,184,55,93,148,176
+QMJHL,Montréal Canadiens,Rafaël Harvey-Pinard (F),201,5,188,76,108,184,68
+WHL,Ottawa Senators,Lassi Thomson (D),19,1,63,17,24,41,40
+WHL,Los Angeles Kings,Lukas Parik (G),87,1,1,-,-,-,-
+WHL,Chicago Blackhawks,Michal Teplý (F),107,1,2,2,1,3,6
+WHL,Vegas Golden Knights,Marcus Kallionkieli (F),139,1,0,0,0,0,0
+WHL,Ottawa Senators,Mads Søgaard (G),37,2,39,-,-,-,-
+WHL,Washington Capitals,Alexei Protas (F),91,2,63,12,30,42,4
+WHL,Philadelphia Flyers,Roddy Ross (G),169,2,26,-,-,-,-
+WHL,Anaheim Ducks,Brayden Tracey (F),29,3,71,36,47,83,28
+WHL,Florida Panthers,John Ludvig (D),69,3,111,9,19,28,124
+WHL,Minnesota Wild,Adam Beckman (F),75,3,71,32,34,66,16
+WHL,Florida Panthers,Henrik Rybinski (F),136,3,111,11,42,53,44
+WHL,New York Islanders,Reece Newkirk (F),147,3,128,31,40,71,121
+WHL,Tampa Bay Lightning,Quinn Schmiemann (D),182,3,63,5,23,28,40
+WHL,Colorado Avalanche,Trent Miner (G),202,3,42,-,-,-,-
+WHL,Calgary Flames,Dustin Wolf (G),215,3,83,-,-,-,-
+WHL,Chicago Blackhawks,Kirby Dach (F),3,4,133,38,91,129,56
+WHL,Colorado Avalanche,Bowen Byram (D),4,4,138,32,66,98,140
+WHL,Buffalo Sabres,Dylan Cozens (F),7,4,128,57,81,138,50
+WHL,Vegas Golden Knights,Peyton Krebs (F),17,4,137,37,91,128,103
+WHL,Tampa Bay Lightning,Nolan Foote (F),27,4,168,68,70,138,118
+WHL,Vegas Golden Knights,Kaedan Korczak (D),41,4,140,8,42,50,108
+WHL,New York Rangers,Matthew Robertson (D),49,4,126,14,44,58,72
+WHL,San Jose Sharks,Dillon Hamaliuk (F),55,4,121,29,41,70,103
+WHL,Washington Capitals,Brett Leason (F),56,4,190,60,80,140,50
+WHL,Colorado Avalanche,Sasha Mutala (F),140,4,138,32,39,71,60
+WHL,Chicago Blackhawks,Cole Moberg (D),194,4,131,17,36,53,73
+WHL,Montréal Canadiens,Gianni Fairbrother (D),77,5,100,12,29,41,113
+WHL,Ottawa Senators,Mark Kastelic (F),125,5,263,88,79,167,319
+WHL,Vancouver Canucks,Carson Focht (F),133,5,202,43,64,107,118
+WHL,Colorado Avalanche,Luka Burzan (F),171,5,209,71,78,149,48
+WHL,Florida Panthers,Matthew Wedman (F),199,5,256,69,89,158,245

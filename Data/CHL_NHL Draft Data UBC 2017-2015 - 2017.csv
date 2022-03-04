@@ -1,0 +1,99 @@
+Draft Position,Team,Player,Seasons,GP,G,A,PTS,PIMS,League
+#110,Toronto Maple Leafs,Ian Scott (G),4,175,-,-,-,-,WHL
+#161,Vegas Golden Knights,Jiri Patera (G),2,80,-,-,-,-,WHL
+#183,Ottawa Senators,Jordan Hollett (G),5,115,-,-,-,-,WHL
+#194,Dallas Stars,Dylan Ferguson (G),4,155,-,-,-,-,WHL
+#54,Buffalo Sabres,Ukko-Pekka Luukkonen (G),1,53,-,-,-,-,OHL
+#64,Vancouver Canucks,Michael DiPietro (G),4,174,-,-,-,-,OHL
+#72,Los Angeles Kings,Matthew Villalta (G),3,133,-,-,-,-,OHL
+#78,Edmonton Oilers,Stuart Skinner (G),5,207,-,-,-,-,WHL
+#96,Vegas Golden Knights,Maxim Zhukov (G),1,19,-,-,-,-,OHL
+#13,Vegas Golden Knights,Nick Suzuki (F),4,251,141,187,328,44,OHL
+#39,Dallas Stars,Jason Robertson (F),4,252,149,168,317,113,OHL
+#27,Philadelphia Flyers,Morgan Frost (F),4,257,106,204,310,149,OHL
+#6,Vegas Golden Knights,Cody Glass (F),5,239,94,198,292,100,WHL
+#22,Edmonton Oilers,Kailer Yamamoto (F),4,230,105,186,291,148,WHL
+#73,Carolina Hurricanes,Stelio Mattheos (F),5,253,127,151,278,227,WHL
+#60,Anaheim Ducks,Antoine Morand (F),4,243,90,180,270,186,QMJHL
+#85,Minnesota Wild,Ivan Lodnia (F),5,261,101,150,251,107,OHL
+#128,Arizona Coyotes,Tyler Steenbergen (F),4,267,123,126,249,97,WHL
+#106,Philadelphia Flyers,Matthew Strome (F),4,260,115,132,247,189,OHL
+#10,Florida Panthers,Owen Tippett (F),4,213,128,116,244,94,OHL
+#50,Anaheim Ducks,Maxime Comtois (F),4,205,123,121,244,267,QMJHL
+#189,Vegas Golden Knights,Ben Jones (F),4,260,89,151,240,207,OHL
+#41,Los Angeles Kings,Jaret Anderson-Dolan (F),5,244,113,123,236,85,WHL
+#53,Boston Bruins,Jack Studnicka (F),4,252,80,153,233,156,OHL
+#212,San Jose Sharks,Ivan Chekhovich (F),3,191,98,126,224,80,QMJHL
+#33,Vancouver Canucks,Kole Lind (F),4,204,83,141,224,202,WHL
+#146,Edmonton Oilers,Kirill Maximov (F),4,245,101,117,218,249,OHL
+#35,Philadelphia Flyers,Isaac Ratcliffe (F),4,245,124,93,217,252,OHL
+#172,Toronto Maple Leafs,Ryan McGregor (F),5,276,83,133,216,60,OHL
+#101,Dallas Stars,Liam Hawel (F),5,301,78,137,215,158,OHL
+#185,San Jose Sharks,Sasha Chmelevski (F),4,216,102,111,213,84,OHL
+#198,Winnipeg Jets,Skyler McKenzie (F),5,282,101,111,212,210,WHL
+#108,Arizona Coyotes,Noel Hoefenmayer (D),5,289,61,150,211,186,OHL
+#2,Philadelphia Flyers,Nolan Patrick (F),4,163,92,113,205,96,WHL
+#40,Florida Panthers,Aleksi Heponiemi (F),2,129,56,148,204,46,WHL
+#94,Colorado Avalanche,Nick Henry (F),3,194,78,126,204,147,WHL
+#67,Carolina Hurricanes,Morgan Geekie (F),5,216,78,124,202,82,WHL
+#109,Calgary Flames,Adam Ruzicka (F),3,189,96,100,196,106,OHL
+#165,New York Islanders,Arnaud Durandeau (F),4,262,85,111,196,192,QMJHL
+#171,Calgary Flames,D'Artagnan Joly (F),5,248,63,128,191,138,QMJHL
+#181,Vancouver Canucks,Petrus Palmu (F),3,176,85,104,189,84,OHL
+#163,Dallas Stars,Brett Davis (F),6,298,85,102,187,114,WHL
+#173,Boston Bruins,Cédric Paré (F),5,251,69,112,181,181,QMJHL
+#75,Arizona Coyotes,Nate Schnarr (F),4,182,69,112,181,119,OHL
+#62,Vegas Golden Knights,Jake Leschyshyn (F),5,257,85,95,180,175,WHL
+#122,Anaheim Ducks,Kyle Olson (F),5,207,53,116,169,265,WHL
+#14,Tampa Bay Lightning,Cal Foote (D),3,202,33,130,163,123,WHL
+#68,Montréal Canadiens,Scott Walford (D),6,281,29,134,163,199,WHL
+#97,Minnesota Wild,Mason Shaw (F),4,161,47,116,163,142,WHL
+#11,Los Angeles Kings,Gabe Vilardi (F),3,143,68,89,157,40,OHL
+#56,Montréal Canadiens,Josh Brook (D),5,204,31,126,157,206,WHL
+#9,Detroit Red Wings,Michael Rasmussen (F),4,161,81,76,157,129,WHL
+#138,Los Angeles Kings,Drake Rymsha (F),4,227,74,82,156,229,OHL
+#20,St. Louis Blues,Robert Thomas (F),3,155,43,113,156,63,OHL
+#55,Vancouver Canucks,Jonah Gadjovich (F),4,228,89,66,155,175,OHL
+#83,Detroit Red Wings,Zach Gallant (F),5,245,74,81,155,271,OHL
+#34,Vegas Golden Knights,Nicolas Hague (D),3,198,67,81,148,296,OHL
+#107,Philadelphia Flyers,Maxim Sushko (F),3,176,66,77,143,120,OHL
+#188,Vancouver Canucks,Matt Brassard (D),4,222,40,103,143,232,OHL
+#23,Arizona Coyotes,Pierre-Olivier Joseph (D),4,235,29,111,140,205,QMJHL
+#16,Calgary Flames,Juuso Välimäki (D),3,159,40,98,138,92,WHL
+#121,Ottawa Senators,Drake Batherson (F),3,122,51,86,137,137,QMJHL
+#193,Detroit Red Wings,Brady Gilmour (F),4,231,57,77,134,28,OHL
+#69,Arizona Coyotes,MacKenzie Entwistle (F),4,220,61,73,134,125,OHL
+#79,Detroit Red Wings,Lane Zablocki (F),4,223,62,72,134,328,WHL
+#130,St. Louis Blues,David Noël (D),5,223,48,85,133,82,QMJHL
+#176,Nashville Predators,Pavel Koltygin (F),3,192,64,67,131,137,QMJHL
+#87,Montréal Canadiens,Cale Fleury (D),4,269,32,95,127,178,WHL
+#118,Los Angeles Kings,Markus Phillips (D),5,271,33,91,124,150,OHL
+#98,New Jersey Devils,Nikita Popugayev (F),3,154,47,76,123,61,WHL
+#140,Calgary Flames,Zach Fischer (F),4,197,68,54,122,296,WHL
+#136,Winnipeg Jets,Leon Gawanke (D),3,178,29,92,121,91,QMJHL
+#29,Chicago Blackhawks,Henri Jokiharju (D),2,134,21,98,119,52,WHL
+#47,Ottawa Senators,Alex Formenton (F),3,144,58,58,116,155,OHL
+#32,Colorado Avalanche,Conor Timmins (D),3,163,19,96,115,132,OHL
+#152,Pittsburgh Penguins,Jan Drozg (F),2,121,37,75,112,92,QMJHL
+#149,Montréal Canadiens,Jarret Tyszka (D),4,213,25,76,101,145,WHL
+#159,San Jose Sharks,Jake McGrew (F),4,132,55,45,100,72,WHL
+#84,Edmonton Oilers,Dmitri Samorukov (D),3,188,25,74,99,90,OHL
+#141,Toronto Maple Leafs,Fedor Gordeev (D),5,242,22,74,96,259,OHL
+#191,New Jersey Devils,Jocktan Chainey (D),4,199,17,74,91,136,QMJHL
+#166,Carolina Hurricanes,Brendan De Jong (D),5,317,24,64,88,218,WHL
+#1,New Jersey Devils,Nico Hischier (F),1,57,38,48,86,24,QMJHL
+#113,St. Louis Blues,Alexei Toropchenko (F),2,128,34,48,82,64,OHL
+#216,Nashville Predators,Jacob Paquette (D),5,287,13,68,81,165,OHL
+#143,New Jersey Devils,Marian Studenic (F),2,120,38,40,78,37,OHL
+#59,Toronto Maple Leafs,Eemeli Räsänen (D),2,127,11,61,72,89,OHL
+#115,Edmonton Oilers,Ostap Safin (F),2,76,29,40,69,45,QMJHL
+#76,Tampa Bay Lightning,Alexei Lipanov (F),2,116,25,44,69,36,OHL
+#123,New York Rangers,Brandon Crawley (D),3,187,16,45,61,299,OHL
+#131,Detroit Red Wings,Cole Fraser (D),4,221,14,40,54,277,OHL
+#147,Minnesota Wild,Jacob Golden (D),4,199,8,43,51,22,OHL
+#175,St. Louis Blues,Trent Bourque (D),5,272,4,45,49,199,OHL
+#51,Pittsburgh Penguins,Zachary Lauzon (D),5,160,4,34,38,218,QMJHL
+#164,Detroit Red Wings,Reilly Webb (D),5,187,4,31,35,156,OHL
+#213,Washington Capitals,Kristian Røykås Marthinsen (F),1,62,13,16,29,30,WHL
+#204,Boston Bruins,Daniel Bukac (D),2,111,2,23,25,78,WHL
+#204,Boston Bruins,Daniel Bukac (D),1,54,4,11,15,47,OHL
